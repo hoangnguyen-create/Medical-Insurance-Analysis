@@ -28,10 +28,10 @@ The second regression model exclude those two insignificant features:
 
 ### Model Evaluation:
 
-* The regression model explains approximately 75% of the variance in medical charges (R² = 0.751).
-* Smoking status is the strongest predictor, increasing expected medical charges by approximately $23,800.
-* Age and BMI significantly increase insurance costs.
-* The number of children also has a positive impact on charges.
-* Regional effects are relatively minor compared to lifestyle and demographic factors.
+* The regression model explains approximately 75% of the variance in medical charges (R² = 0.751)
+* Smoking status is the strongest predictor, increasing expected medical charges by approximately $23,800
+* Age and BMI significantly increase insurance costs
+* The number of children also has a positive impact on charges
+* Regional effects are relatively minor compared to lifestyle and demographic factors
 
 Link to whole project via Google Collab: https://colab.research.google.com/drive/1PHNKSgUcKFl1a0msLQcWcl17H-TuYCqI?usp=sharing#scrollTo=P_GKyv41r6up
