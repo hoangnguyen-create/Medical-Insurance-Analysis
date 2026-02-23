@@ -20,7 +20,7 @@ After cleaning and convert:
 ### Result: 
 <img width="673" height="526" alt="image" src="https://github.com/user-attachments/assets/fa08df6d-7483-41cf-8e5e-37324f38ed4f" />
 
-Based on the first regression model, both sex and Northwest region don't have a strong evidence supporting their affect insurance charges 
+Based on the first regression model, both sex and Northwest region don't have a strong evidence supporting their effects to insurance charges 
 
 The second regression model exclude those two insignificant features: 
 
