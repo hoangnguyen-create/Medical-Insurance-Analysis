@@ -1,4 +1,4 @@
-# Medical-Insurance-Analysis
+# Medical Insurance Analysis
 This project aims to predict the medical insurance costs billed to the individual. The charges can vary based on several factors such as the individual's age, BMI, smoking status, number of children, and region of residence.
 
 Dataset: https://raw.githubusercontent.com/sca-programming-school/datasets/main/insurance.csv
